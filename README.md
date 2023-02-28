@@ -1,11 +1,11 @@
 # Palangge.github.io
-<!DOCTYPE html>
 <html>
     <head>
-        <title>Angelito Arboleda</title>
+        <title>My First HTML Page</title>
+        <meta charset="UTF-8">
     </head>
     <body>
-        <h2>Hi! I'm Angelito!</h2>
-        <p><i>Welcome to my journey as a </i><b>Full Stack Web developer</b>.</p>
+        <h1>Hi I'm Angelito!</h1>
+        <p><b>This is my first HTML page</b>.</p>
     </body>
 </html>
