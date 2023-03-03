@@ -21,4 +21,11 @@ ul {
 }
 body {
     background-image: url("Wall-001.jpeg");
+    background-position: center;
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    min-height: 100vh;
+}
+p {
+    background-color: rgba(194, 240, 240, 0.13);
 }
