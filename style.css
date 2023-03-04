@@ -20,7 +20,7 @@ ul {
   color: rgb(255, 38, 0);
 }
 body {
-    background-image: url("/pics/Wall-001.jpeg");
+    background-image: url("Wall-001.jpeg");
     background-position: center;
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
