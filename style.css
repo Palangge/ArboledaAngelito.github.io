@@ -32,3 +32,6 @@ p {
 *{
     font-family: "poppins";
 }
+.circle {
+    border-radius: 50%;
+}
