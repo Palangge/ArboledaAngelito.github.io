@@ -29,8 +29,8 @@ body {
 p {
     background-color: rgba(194, 240, 240, 0.13);
 }
-*{
-    font-family: "poppins";
+html{
+    font-family: "poppins" !important;
 }
 .circle {
     border-radius: 50%;
